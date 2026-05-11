@@ -5,7 +5,7 @@ Homebrew tap for `doow`.
 ## Install
 
 ```bash
-brew tap Blvvck/homebrew-doow
+brew tap Doow-Dev/homebrew-doow
 brew install doow
 ```
 

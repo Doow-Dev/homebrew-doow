@@ -3,9 +3,9 @@ class Doow < Formula
 
   desc "Doow CLI - manage SaaS spend from your terminal"
   homepage "https://doow.com"
-  url "https://registry.npmjs.org/@doow/cli/-/cli-0.1.11.tgz"
-  version "0.1.11"
-  sha256 "a52397e61638801e2abaed257229e14a19ea39624081d10d0a506f5322c007d6"
+  url "https://registry.npmjs.org/@doow/cli/-/cli-0.1.13.tgz"
+  version "0.1.13"
+  sha256 "845dc32536bcd324e31d8b414a95054b504ad89cfc7b0a4e98ce35c4addfc1bb"
   license "MIT"
 
   depends_on "node@20"
